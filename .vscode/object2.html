@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Objects</h1>
+<h2>The Object.groupBy() Method</h2>
+
+<p id="demo"></p>
+<script>
+    const fruits = [
+        {name:"apples", quantity:300},
+        {name:"bananas", quantity:500},
+        {name:"oranges", quantity:200},
+        {name:"kiwi", quantity:150},
+    ];
+    function myCallback({quantity}){
+        return quantity > 200 ? "ok" : "low"
+    }
+</script>
