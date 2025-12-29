@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<h2>JavaScript switch</h2>
+<p id="acar"></p>
+</body>
+<script>
+    let text;
+    switch (new Date().getDate()){
+        case 4:
+        case 5:
+            text="Soon it is Weekend";
+            break;
+        case 0:
+        case 6:
+            text="it is weekend";
+            break;
+        default:
+            text="Looking forward to the Weekend";
+    }
+    document.getElementById("acar").innerHTML=text;
+</script>
+</html>
