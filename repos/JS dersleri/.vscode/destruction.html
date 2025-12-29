@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Arrays</h1>
+<h2>Array Destructuring</h2>
+
+<p>We can skip array values using two or more commas:</p>
+
+<p id="demo"></p>
+<script>
+    const fruits=["Bananas","Oranges","Apples","Mangos"];
+    //let [fruit1,,,fruit2]=fruits;//
+    let {[0]:fruit1, [2]:fruit2}=fruits;
+    document.getElementById("demo").innerHTML=fruit1 +" " + fruit2;
+</script>
+</body>
+</html>
