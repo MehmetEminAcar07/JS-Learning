@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Linq\obj\Debug\net8.0\Linq.RazorAssemblyInfo.cs
