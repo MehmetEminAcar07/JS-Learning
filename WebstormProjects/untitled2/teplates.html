@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<h1>JavaScript Template Strings</h1>
+<p>Templates allow variables in strings:</p>
+<p id="acar"></p>
+<p>Templates are not supported in Internet Explorer.</p>
+<script>
+    let header="Template Strings";
+    let tags=["template strings","javascript","es6"];
+    let html=`<h2>${header}</h2><ul>`;
+    for (const x of tags){
+        html +=`<li>${x}</li>`;
+    }
+    html +=`</ul>`;
+    document.getElementById("acar").innerHTML=html;
+</script>
+</body>
+</html>
